@@ -10,6 +10,11 @@
 - Check out my [resumé]():
 - ⚡ Fun fact: I'm (sort of) a polyglot and I like general/computational linguistics ...
 
+## Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=blue-green)
+
+
 <!--
 **ezxpro/ezxpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
