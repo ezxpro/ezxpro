@@ -1,5 +1,6 @@
 ### Hi there, I'm Ezequiel 👋🏾
 -----
+![[Ezequiel Santos](https://www.linkedin.com/in/ezequiel-barbosa/)](./.img/linkedin.png) ![[ezxpro](https://gitlab.com/ezxpro)](./.img/gitlab)
 
 ## ⚡️About me
 - 🧑🏽‍🎓 Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
@@ -11,12 +12,11 @@
 - ⚡ Fun facts about me
   - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
+ 
+## Github Activity
 
-## Stats
-
-<p style="text-align: center;">![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)</p>
-
-[![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
+![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
+[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox&line_height=26.5)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
 
