@@ -16,7 +16,7 @@
 
 ![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
 
-## Activity on GitHub
+### Activity on GitHub
 
 [![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
