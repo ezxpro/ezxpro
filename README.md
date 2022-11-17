@@ -1,6 +1,7 @@
 ### Hi there, I'm Ezequiel 👋🏾
 -----
 
+
 ## ⚡️About me
 - 🧑🏽‍🎓 Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
 - ⚒️ Currently working on São Paulo State University's [TweePIna](https://labriunesp.org/docs/projetos/dados/tweepina/info) data science project
@@ -12,15 +13,9 @@
   - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
  
-## About this profile
+## Github Activity
 
-### Activity per language
-
-![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
-
-### General activity
-
-[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
+![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
 
