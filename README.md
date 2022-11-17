@@ -15,7 +15,7 @@
  
 ## Github Activity
 
-![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox&amp;line_height=27)[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
+![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox&line_height=27)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
 
