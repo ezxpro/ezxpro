@@ -7,14 +7,15 @@
 - 💻 Currently learning Python, Database modeling, Google Sheets and General Linguistics...
 - 🧠 I have broad range of interests, ranging from Global Politics, Linguistics, Math, all the way to low-level programming. 
 - ✉️ How to reach me: ezequiel@duck.com
-- Check out my [resumé]():
+- Check out my [resumé]()
 - ⚡ Fun facts about me
   - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
 
+
 ## Stats
 
-            ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
+<p style="text-align: center;">(https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)</p>![Your Repository's Stats]
 
 [![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
