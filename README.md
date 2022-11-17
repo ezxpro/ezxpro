@@ -20,7 +20,7 @@
 
 ### Activity on GitHub
 
-[![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
+[![ezxpro's contributions](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
 
