@@ -1,6 +1,6 @@
 ### Hi there, I'm Ezequiel 👋🏾
 -----
-
+![[Ezequiel Santos](https://www.linkedin.com/in/ezequiel-barbosa/)](./.img/linkedin.png) ![[ezxpro](https://gitlab.com/ezxpro)](./.img/gitlab)
 
 ## ⚡️About me
 - 🧑🏽‍🎓 Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
