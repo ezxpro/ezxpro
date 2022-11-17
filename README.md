@@ -15,7 +15,7 @@
 
 ## Stats
 
-<p style="text-align: center;">(https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)</p>![ezxpro's Repositories' Stats]
+<p style="text-align: center;">(https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)![ezxpro's Repositories' Stats]</p>
 
 [![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
