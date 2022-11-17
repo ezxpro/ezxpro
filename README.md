@@ -1,12 +1,13 @@
 ### Hi there, I'm Ezequiel 👋🏾
 -----
 
-## Bio
-- 🔭 I’m currently working on São Paulo State University's [TweePIna](https://labriunesp.org/docs/projetos/dados/tweepina/info) data science project...
-- 🌱 I’m currently learning Python, Database modeling, Google Sheets and General Linguistics...
-- 📫 How to reach me: ...
+## ⚡️About me
+- Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
+- 🔭 Currently working on São Paulo State University's [TweePIna](https://labriunesp.org/docs/projetos/dados/tweepina/info) data science project
+- 💻 Currently learning Python, Database modeling, Google Sheets and General Linguistics...
+- 📫 How to reach me: ezequiel@duck.com
 - I have broad range of interests, ranging from International Relations, Linguistics, Math, all the way to low-level programming. 
-- Things I want to learn: Software Reverse Engineering and the RISC-V ISA, among other things.
+- I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
 - Check out my [resumé]():
 - ⚡ Fun fact: I'm (sort of) a polyglot and I like general/computational linguistics ...
 
