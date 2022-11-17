@@ -1,5 +1,5 @@
-### Hi there, I'm Ezequiel 👋🏾
------
+## Hi there, I'm Ezequiel 👋🏾
+
 ### Find me on
 [![Ezequiel Santos](./.img/linkedin.png)](https://www.linkedin.com/in/ezequiel-barbosa/) [![ezxpro](./.img/gitlab.png)](https://gitlab.com/ezxpro)
 
