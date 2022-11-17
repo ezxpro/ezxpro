@@ -11,8 +11,8 @@
 - ⚡ Fun fact: I'm (sort of) a polyglot and I like general/computational linguistics ...
 
 ## Stats
-[![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)]
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&show_icons=true&bg_color=0A0F0D&text_color=FFFF82&border_color=F5F7DC&title_color=F5F7DC&count_private=true)
+[![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox))
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
 
 
 <!--
