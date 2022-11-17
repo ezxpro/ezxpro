@@ -12,7 +12,7 @@
 
 ## Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&show_icons=true&theme=blue-green)
 
 
 <!--
