@@ -14,13 +14,13 @@
  
 ## About this profile
 
-### My projects are:
+### Activity per language
 
 ![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
 
-### Activity on GitHub
+### General activity
 
-[![ezxpro's contributions](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
+[![](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
 
