@@ -12,11 +12,10 @@
   - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
 
-
 ## Stats
 
-<p style="text-align: center;">(https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)![ezxpro Repository Stats]</p>
-
+<p style="text-align: center;">(https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)![Your Repository's Stats]
+</p>
 [![ezxpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=ezxpro&theme=gruvbox)
 
 
