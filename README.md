@@ -2,7 +2,7 @@
 [![Ezequiel Santos](./.img/linkedin.png)](https://www.linkedin.com/in/ezequiel-barbosa/) [![ezxpro](./.img/gitlab.png)](https://gitlab.com/ezxpro)
 
 ## ⚡️About me
-- 🧑🏽‍🎓 Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
+- 🎓 Final year undergraduate student of International Relations at [São Paulo State University (UNESP)](https://www.international.unesp.br/)
 - ⚒️ Currently working on São Paulo State University's [TweePIna](https://labriunesp.org/docs/projetos/dados/tweepina/info) data science project
 - 💻 Currently learning Python, Database modeling, Google Sheets and General Linguistics...
 - 🧠 I have broad range of interests, ranging from Global Politics, Linguistics, Math, all the way to low-level programming. 
