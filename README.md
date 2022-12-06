@@ -8,7 +8,7 @@
 - 🧠 I have broad range of interests, ranging from Global Politics, Linguistics, Math, all the way to low-level programming. 
 - ✉️ How to reach me: ezxpro@duck.com
 - ⚡ Fun facts about me
-  - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
+  - 👅 I'm (sort of) a polyglot, proficient in English, conversational in German and Spanish. I'm also fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
  
 ### Skills
