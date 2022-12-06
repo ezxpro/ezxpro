@@ -6,7 +6,7 @@
 - ⚒️ Currently working on São Paulo State University's [TweePIna](https://labriunesp.org/docs/projetos/dados/tweepina/info) data science project
 - 💻 Currently learning Python, Database modeling, Google Sheets and General Linguistics...
 - 🧠 I have broad range of interests, ranging from Global Politics, Linguistics, Math, all the way to low-level programming. 
-- ✉️ How to reach me: ezequiel@duck.com
+- ✉️ How to reach me: ezxpro@duck.com
 - ⚡ Fun facts about me
   - 👅 I'm (sort of) a polyglot, fascinated by general and computational linguistics
   - 😵 I don't wanna die before: Learning Software Reverse Engineering, the RISC-V ISA and the Sanskrit language.
