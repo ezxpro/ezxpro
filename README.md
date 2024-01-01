@@ -2,7 +2,7 @@
 
 
 ## ⚡️About me
-"I'm blue, da-ba-dee da-ba-di
+"I'm blue, da-ba-dee da-ba-di"
 
 
 ### Skills
