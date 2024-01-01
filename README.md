@@ -2,7 +2,7 @@
 
 
 ## ⚡️About me
-none of this matters.
+"I'm blue, da-ba-dee da-ba-di
 
 
 ### Skills
