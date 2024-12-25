@@ -1,5 +1,3 @@
-## Hi there, I'm ezxpro 👋🏾
-
 ## Github Activity
 
 ![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
