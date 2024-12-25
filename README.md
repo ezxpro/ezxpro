@@ -1,12 +1,5 @@
 ## Hi there, I'm ezxpro 👋🏾
 
-
-## ⚡️About me
-"I'm blue, da-ba-dee da-ba-di"
-
-
-### Skills
-
 ## Github Activity
 
 ![ezxpro's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezxpro&theme=gruvbox)
